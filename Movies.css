@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pa{
+    padding: 5px 15px;
+    margin: 5px 25px;
+    text-align: center;
+    background-color: lightpink;
+}
+.ch img{
+    margin: 5px 15px;
+    height: 200px;
+    width: 280px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+   
+
+}
+.ch img:hover{
+    transform: scale(1.2);
+}
